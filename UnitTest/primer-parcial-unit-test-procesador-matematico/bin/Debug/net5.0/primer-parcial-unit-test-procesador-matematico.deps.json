@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "primer-parcial-unit-test-procesador-matematico/1.0.0": {
+        "runtime": {
+          "primer-parcial-unit-test-procesador-matematico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "primer-parcial-unit-test-procesador-matematico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

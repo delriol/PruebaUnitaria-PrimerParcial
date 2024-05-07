@@ -1,0 +1,16 @@
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\bin\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.exe
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\bin\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.deps.json
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\bin\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.runtimeconfig.json
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\bin\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.runtimeconfig.dev.json
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\bin\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.dll
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\bin\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.pdb
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.csproj.AssemblyReference.cache
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.GeneratedMSBuildEditorConfig.editorconfig
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.AssemblyInfoInputs.cache
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.AssemblyInfo.cs
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.csproj.CoreCompileInputs.cache
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.dll
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\refint\primer-parcial-unit-test-procesador-matematico.dll
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.pdb
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.genruntimeconfig.cache
+D:\primer-parcial-unit-test-procesador-matematico\UnitTest\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\ref\primer-parcial-unit-test-procesador-matematico.dll

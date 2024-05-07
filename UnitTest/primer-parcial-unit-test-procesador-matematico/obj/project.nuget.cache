@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSr6zjACakvHnx9biTdH/KY91/bEKv0dGGiOMPYl8QAyJJg2oRLZ+I1F5DpclWtzGLyiNxlKcMkIIhgcy5/k1Q==",
+  "success": true,
+  "projectFilePath": "D:\\primer-parcial-unit-test-procesador-matematico\\UnitTest\\primer-parcial-unit-test-procesador-matematico\\primer-parcial-unit-test-procesador-matematico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jalatec-1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
